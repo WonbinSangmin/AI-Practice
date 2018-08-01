@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Agent
 
 - July, 2018 ~ August, 2018
@@ -10,3 +11,6 @@
 ```
 git checkout day1
 ```
+=======
+# AI_Practice
+>>>>>>> da2cca0b2c16fabd8bb89cd5420f4b61a4cb9298
